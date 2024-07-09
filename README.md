@@ -33,6 +33,6 @@
   </ol>
 
   <h2>License</h2>
-  <p>This project is licensed under the MIT License, offering you freedom to use, modify, and distribute it under certain conditions. Please refer to the LICENSE file for details.</p>
+  <p>This project is licensed under the MIT License, offering you freedom to use, modify, and distribute it under certain conditions</p>
 </body>
 </html>

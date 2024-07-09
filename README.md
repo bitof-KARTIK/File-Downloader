@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>File Downloader</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 2rem;
-    }
-    h1 {
-      text-align: center;
-      font-size: 1.5rem;
-    }
-    p {
-      margin-bottom: 1rem;
-      line-height: 1.5;
-    }
-    ol {
-      padding-left: 2rem;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
+
 <body>
   <h1>File Downloader</h1>
   <p>File Downloader is a lightweight tool written in JavaScript that simplifies downloading multiple files from provided URLs. It offers a user-friendly interface for easy management of your downloads.</p>
@@ -44,8 +14,6 @@
   <p>**Note:** This information is intended for developers who want to contribute to the project.</p>
   <pre>
     git clone https://github.com/bitof-KARTIK/File-Downloader.git
-
-    cd File-Downloader
   </pre>
 
   <h2>Usage (For Developers)</h2>

@@ -1,15 +1,18 @@
-File Downloader
-File Downloader is a lightweight tool designed to download files from given URLs efficiently. This project is developed using JavaScript and provides a straightforward solution for downloading multiple files.
+# File Downloader
 
-Features
-Download files from specified URLs
-Simple and easy-to-use interface
-Lightweight and efficient
-Installation
+**File Downloader** is a lightweight tool designed to download files from given URLs efficiently. This project is developed using JavaScript and provides a straightforward solution for downloading multiple files.
+
+## Features
+
+- Download files from specified URLs
+- Simple and easy-to-use interface
+- Lightweight and efficient
+
+## Installation
+
 To get started with File Downloader, clone the repository:
 
-bash
-Copy code
+```bash
 git clone https://github.com/bitof-KARTIK/File-Downloader.git
 Navigate to the project directory:
 

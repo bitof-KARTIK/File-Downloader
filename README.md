@@ -1,39 +1,70 @@
-File Downloader
-Overview
-File Downloader is a lightweight tool designed to download files from given URLs efficiently. This project is developed using JavaScript and provides a straightforward solution for downloading multiple files.
-Features
-Download files from specified URLs
-Simple and easy-to-use interface
-Lightweight and efficient
-Installation
-To get started with File Downloader, follow these steps:
-Clone the repository:
-bash
-git clone https://github.com/bitof-KARTIK/File-Downloader.git
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>File Downloader</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+    }
+    h1 {
+      text-align: center;
+      font-size: 1.5rem;
+    }
+    p {
+      margin-bottom: 1rem;
+      line-height: 1.5;
+    }
+    ol {
+      padding-left: 2rem;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>File Downloader</h1>
+  <p>File Downloader is a lightweight tool written in JavaScript that simplifies downloading multiple files from provided URLs. It offers a user-friendly interface for easy management of your downloads.</p>
 
-Navigate to the project directory:
-bash
-cd File-Downloader
+  <h2>Features</h2>
+  <ul>
+    <li>Download files from specified URLs</li>
+    <li>Simple and intuitive interface</li>
+    <li>Lightweight and efficient for optimal performance</li>
+  </ul>
 
-Usage
-Open the index.html file in your preferred web browser.
-Enter the URL(s) of the file(s) you wish to download.
-Click the "Download" button to initiate the download process.
-Contributing
-Contributions are welcome If you would like to contribute to this project, please follow these steps:
-Fork the repository.
-Create a new branch:
-bash
-git checkout -b my-feature-branch
+  <h2>Installation (For Developers)</h2>
+  <p>**Note:** This information is intended for developers who want to contribute to the project.</p>
+  <pre>
+    git clone https://github.com/bitof-KARTIK/File-Downloader.git
 
-Make your changes and commit them:
-bash
-git commit -m 'Add some feature'
+    cd File-Downloader
+  </pre>
 
-Push to the branch:
-bash
-git push origin my-feature-branch
+  <h2>Usage (For Developers)</h2>
+  <p>**Note:** This information is intended for developers who want to contribute to the project.</p>
+  <ol>
+    <li>Open index.html in your preferred web browser.</li>
+  </ol>
 
-Create a pull request.
-License
-This project is licensed under the MIT License.
+  <h2>Contributing</h2>
+  <p>We welcome contributions to improve this project! Here's how you can get involved:</p>
+  <ol>
+    <li>Fork the repository: Create your own copy of the project on GitHub.</li>
+    <li>Create a New Branch: Use `git checkout -b my-feature-branch` to create a new branch for your changes.</li>
+    <li>Make Changes and Commit: Implement your modifications and commit them with a descriptive message using `git commit -m 'Add some feature'`.  </li>
+    <li>Push to Your Branch: Push your changes to your branch using `git push origin my-feature-branch`.</li>
+    <li>Create a Pull Request: Submit a pull request to propose your contributions to the main project.</li>
+  </ol>
+
+  <h2>License</h2>
+  <p>This project is licensed under the MIT License, offering you freedom to use, modify, and distribute it under certain conditions. Please refer to the LICENSE file for details.</p>
+</body>
+</html>
